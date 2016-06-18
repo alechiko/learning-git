@@ -1,0 +1,5 @@
+This is a file inside the repository "learning-git"
+It is going to be used to test: 
+1. creating new files
+2. moving the files into a new branch
+3. pushing the files to my remote repositories
