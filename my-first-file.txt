@@ -3,3 +3,4 @@ It is going to be used to test:
 1. creating new files
 2. moving the files into a new branch
 3. pushing the files to my remote repositories
+4. merge pull requests & delete repositories
