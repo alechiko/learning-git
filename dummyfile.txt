@@ -1,1 +1,2 @@
 Random text in this file
+Adds another line to this file
